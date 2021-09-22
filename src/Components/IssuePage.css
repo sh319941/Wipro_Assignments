@@ -1,0 +1,10 @@
+table, th, td
+ {
+    border: 2px solid black;
+}
+  a {
+    color:black;
+   }
+  a:hover {
+     color: #00F
+  }

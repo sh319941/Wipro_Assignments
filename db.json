@@ -1,0 +1,28 @@
+{
+  "IssueList": [
+    {
+      "id": 1,
+      "Issue_Description": "On Clicking Delete, the application crashees",
+      "Severity": "Critial",
+      "Status": "Open"
+    },
+    {
+      "id": 2,
+      "Issue_Description": "The heading Add is wrongly displayed as Edit",
+      "Severity": "Minor",
+      "Status": "Closed"
+    },
+    {
+      "id": 3,
+      "Issue_Description": "The Payment functionality is missing",
+      "Severity": "Major",
+      "Status": "In Progress"
+    },
+    {
+      "Issue_Description": "Testing Data",
+      "Severity": "Minor",
+      "Status": "Open",
+      "id": 4
+    }
+  ]
+}
